@@ -9,5 +9,8 @@ U zbiru 14 slova u imenu i prezimenu -> 14 % 6 = 2 -> pin 2 (PB2)
 Širina impulsa = broj slova u imenu u ms -> 6 ms
 Širina pauze = broj slova u prezimenu u ms -> 8 ms
 
-Impuls + pauza (takt) se ponavlja broj slova u imenu puta -> 6 puta, 
-zatim se ponavlja broj slova u prezimenu puta -> 8 puta.
+Impuls + pauza (takt) se ponavlja broj slova u imenu puta -> 6 puta
+Nakon toga širina impulsa postaje broj slova u prezimenu u ms -> 8 ms 
+Širina pauze postaje broj slova u imenu u ms -> 6 ms 
+To se ponavlja broj slova u prezimenu puta -> 8 puta
+
